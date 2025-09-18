@@ -4,7 +4,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Nuvilab / Quimtia",
-  description: "Produtos para animais de laboratório",
+  description: "Alimento completo para animais de laboratório",
 };
 
 export default function RootLayout({
