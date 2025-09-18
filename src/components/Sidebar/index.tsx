@@ -14,11 +14,12 @@ export function Sidebar({ isMinimized, setIsMinimized, setActiveCategory, active
   };
   return (
     <div>
-      <aside
-        className={`
-          bg-white/80 backdrop-blur-sm border-r border-slate-200/60 min-h-screen
-          transition-all duration-300 ease-in-out 
-   ${isMinimized ? "w-16" : "w-screen sm:w-full md:w-full lg:w-80"}        `}
+<aside
+  className={`
+    fixed top-0 left-0 h-screen
+    bg-white/80 backdrop-blur-sm border-r border-slate-200/60
+    transition-all duration-300 ease-in-out 
+    ${isMinimized ? "w-16" : "w-screen sm:w-full md:w-full lg:w-80"}        `}
       >
         <div className="p-4">
           {/* Botão de minimizar/expandir */}
