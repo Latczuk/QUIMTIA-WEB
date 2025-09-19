@@ -23,7 +23,7 @@ export default function Home() {
               <div className="inline-flex items-center gap-3 mb-6">
                 <Image width={120} height={120} alt={``} src={`/logo.png`} />
               </div>
-              <p className="text-slate-600 text-lg font-medium">Produtos para animais de laboratório</p>
+              <p className="text-slate-600 text-lg font-medium">Alimento completo para animais de laboratório</p>
             </header>
             <ProductGrid category={activeCategory}/>
           </div>
