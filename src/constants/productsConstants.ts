@@ -91,7 +91,7 @@ export const Products: products[] = [
     title: "NUVILAB COBAIAS",
     description: "Ração destinada ao uso de animais de laboratório.",
     features: ["Possui um prazo de validade (06 meses)", "Alimentação para cobaias de laboratório."],
-    species: "Coelhos",
+    species: "Cobaias",
     file: "/pdfs/nuvilab_cobaias.PDF",
   },
   {
