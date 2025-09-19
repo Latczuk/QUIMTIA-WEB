@@ -13,7 +13,7 @@ export const Products: products[] = [
     id: 1,
     type: "ratos",
     title: "NUVILAB CR-1",
-    description: "Ração pronta para uso, formulada para camundongos e ratos de laboratório",
+    description: "Ração pronta para uso, formulada para camundongos e ratos de laboratório.",
     features: ["Possui um prazo de validade (06 meses)"],
     species: "Ratos e Camundongos",
     file: "/pdfs/nuvilab_cr1.PDF",
@@ -23,7 +23,7 @@ export const Products: products[] = [
     type: "ratos",
     title: "NUVILAB CR-1 AUTOCLAVÁVEL",
     description:
-      "Ração autoclavável, ideal para ambientes de laboratório que exigem esterilização rigorosa",
+      "Ração autoclavável, ideal para ambientes de laboratório que exigem esterilização rigorosa.",
     features: ["Possui um prazo de validade (06 meses)"],
     species: "Ratos e Camundongos",
     file: "/pdfs/nuvilab_cr1_autoclav.PDF",
@@ -33,7 +33,7 @@ export const Products: products[] = [
     type: "ratos",
     title: "NUVILAB CR-1 IRRADIADA",
     description:
-      "Ração irradiada pronta para uso com 10 kGy, ideal para ambientes que exigem biossegurança e esterilização",
+      "Ração irradiada pronta para uso com 10 kGy, ideal para ambientes que exigem biossegurança e esterilização.",
     features: ["Possui um prazo de validade estendido (12 meses)"],
     species: "Ratos e Camundongos",
     file: "/pdfs/nuvilab_cr1_irradiada.PDF",
@@ -43,7 +43,7 @@ export const Products: products[] = [
     type: "ratos",
     title: "NUVILAB CR-1 CRESCIMENTO E REPRODUÇÃO IRRADIADA",
     description:
-      "Ração irradiada pronta para uso com formulação específica para reprodução, com foco em fêmeas em gestação e lactação, e animais jovens",
+      "Ração irradiada pronta para uso com formulação específica para reprodução, com foco em fêmeas em gestação e lactação, e animais jovens.",
     features: ["Possui um prazo de validade estendido (12 meses)",
       "Fêmeas em gestação, lactação e animais jovens (até 80% do peso adulto)",],
     species: "Ratos e Camundongos",
